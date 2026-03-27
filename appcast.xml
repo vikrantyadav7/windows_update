@@ -8,7 +8,7 @@
       <title>Version 2.5.0</title>
       <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/vikrantyadav7/chatter_box/releases/download/v2.5.0/Enalytix-2.5.0+1-windows-setup.exe"
+        url="https://github.com/vikrantyadav7/windows_update/releases/download/v2.5.0/Enalytix-2.5.0+1-windows-setup.exe"
         sparkle:dsaSignature="MD0CHHVf5rVGmVeqtVJRnOeADIhPSQgdEpn33r0cAusCHQCuuao9/2WtA9BGTjxjmFGyR9kNBJFMgX7Ojdbk"
         sparkle:version="2.5.0+1"
         sparkle:os="windows"
