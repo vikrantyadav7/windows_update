@@ -11,7 +11,7 @@
       <enclosure
         url="https://github.com/vikrantyadav7/windows_update/releases/download/v2.5.0/Enalytix-2.5.0+1-windows-setup.exe"
         sparkle:dsaSignature="MD0CHHVf5rVGmVeqtVJRnOeADIhPSQgdEpn33r0cAusCHQCuuao9/2WtA9BGTjxjmFGyR9kNBJFMgX7Ojdbk"
-        sparkle:version="2.5.0+1"
+        sparkle:version="4.14.0+2"
         sparkle:os="windows"
         length="114897078"
         type="application/octet-stream" />
